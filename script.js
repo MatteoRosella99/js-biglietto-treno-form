@@ -67,5 +67,6 @@ annulla.addEventListener("click",
     document.getElementById("nome").value = "\n";
     document.getElementById("chilometri").value = "\n";
     document.getElementById("anni").value = "\n";
+    document.getElementById("biglietto").style.display = "none";
   }
 );
